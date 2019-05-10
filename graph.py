@@ -2,6 +2,7 @@ import argparse
 import os
 import glob
 import math
+import re
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,6 +10,8 @@ import matplotlib.pyplot as plt
 GRAPH_PATH = './output/graph'
 
 class Rect:
+    cell_split_pattern = re.compile('\t|,')
+
     def __init__(self, x, y, w, h):
         self.x = x
         self.y = y
@@ -19,7 +22,7 @@ class Rect:
     def from_line(cls, line: str):
         if line.strip() == 'Tracking failure detected':
             return None
-        cell = line.split(',')
+        cell = cls.cell_split_pattern.split(line)
         if len(cell) != 4:
             raise RuntimeError(f'A line "{line}" should contain 4 part')
         return cls(*[float(c) for c in cell])
