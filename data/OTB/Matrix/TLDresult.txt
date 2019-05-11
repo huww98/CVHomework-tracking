@@ -1,0 +1,100 @@
+331,39,38,42
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+722.4,14.4,24,26.4
+Tracking failure detected
+132,28.8,24,26.4
+Tracking failure detected
+Tracking failure detected
+662,16,20,22
+446,8,20,22
+262.767,71.6636,59.7197,65.6916
+527.524,84.6029,49.7664,54.743
+652,146,20,22
+597.197,101.523,59.7197,65.6916
+650,162,20,22
+220.8,91.2,24,26.4
+21.4991,0,71.6636,78.83
+282.01,58.0608,41.472,45.6192
+358,302,20,22
+435.954,23.8879,59.7197,65.6916
+621.6,62.4,24,26.4
+708,122,20,22
+306.893,153.446,41.472,45.6192
+527.524,114.463,49.7664,54.743
+637.806,42.9982,71.6636,78.83
+14.4,54.72,28.8,31.68
+14.4,63.36,28.8,31.68
+560,220,20,22
+418.038,69.673,49.7664,54.743
+91.2,76.8,24,26.4
+534,118,20,22
+109.486,54.743,49.7664,54.743
+340.402,47.7757,59.7197,65.6916
+656,236,20,22
+279.488,14.3327,71.6636,78.83
+428,254,20,22
+404,244,20,22
+150.494,64.4973,71.6636,78.83
+147.635,64.2796,73.5167,80.8683
+145.608,64.3053,73.7065,81.0772
+618.624,179.712,34.56,38.016
+470.4,117.6,24,26.4
+53.9136,45.6192,41.472,45.6192
+34.56,126.72,28.8,31.68
+290.88,106.56,28.8,31.68
+74,34,20,22
+247.2,139.2,24,26.4
+178,34,20,22
+756,112,20,22
+103.196,165.113,103.196,113.515
+504,160,20,22
