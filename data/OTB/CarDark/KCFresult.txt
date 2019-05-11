@@ -1,0 +1,393 @@
+73,126,29,23
+73,126,29,23
+73,126,29,23
+75,126,29,23
+75,126,29,23
+76,125,29,23
+75,125,29,23
+77,125,29,23
+78,124,29,23
+78,125,29,23
+78,124,29,23
+78,125,29,23
+79,124,29,23
+80,124,29,23
+80,124,29,23
+81,123,29,23
+82,122,29,23
+82,123,29,23
+82,122,29,23
+83,122,29,23
+84,122,29,23
+84,122,29,23
+84,122,29,23
+84,123,29,23
+85,122,29,23
+86,123,29,23
+86,122,29,23
+86,123,29,23
+87,122,29,23
+88,123,29,23
+88,122,29,23
+88,123,29,23
+88,122,29,23
+89,123,29,23
+90,122,29,23
+89,123,29,23
+91,122,29,23
+91,123,29,23
+91,123,29,23
+91,123,29,23
+91,123,29,23
+92,124,29,23
+91,125,29,23
+92,125,29,23
+92,125,29,23
+92,126,29,23
+92,127,29,23
+92,126,29,23
+93,127,29,23
+94,127,29,23
+93,127,29,23
+94,127,29,23
+94,127,29,23
+94,126,29,23
+94,127,29,23
+95,126,29,23
+96,127,29,23
+95,126,29,23
+97,126,29,23
+97,126,29,23
+97,126,29,23
+97,126,29,23
+97,126,29,23
+98,126,29,23
+97,126,29,23
+98,126,29,23
+97,125,29,23
+98,124,29,23
+98,125,29,23
+98,124,29,23
+98,125,29,23
+98,125,29,23
+99,124,29,23
+100,125,29,23
+99,124,29,23
+100,125,29,23
+99,124,29,23
+100,125,29,23
+100,124,29,23
+100,125,29,23
+100,124,29,23
+100,125,29,23
+100,124,29,23
+100,125,29,23
+101,124,29,23
+102,125,29,23
+101,124,29,23
+102,125,29,23
+101,124,29,23
+102,125,29,23
+101,124,29,23
+102,125,29,23
+101,124,29,23
+102,125,29,23
+101,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,125,29,23
+102,124,29,23
+102,124,29,23
+102,125,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,123,29,23
+102,122,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,124,29,23
+102,123,29,23
+102,123,29,23
+102,122,29,23
+103,123,29,23
+104,122,29,23
+103,123,29,23
+104,122,29,23
+103,123,29,23
+104,123,29,23
+103,123,29,23
+104,123,29,23
+103,123,29,23
+104,123,29,23
+104,124,29,23
+104,125,29,23
+104,124,29,23
+104,125,29,23
+104,124,29,23
+104,125,29,23
+104,124,29,23
+104,125,29,23
+105,123,29,23
+105,123,29,23
+106,123,29,23
+105,123,29,23
+106,123,29,23
+105,122,29,23
+106,123,29,23
+106,122,29,23
+106,123,29,23
+106,122,29,23
+106,123,29,23
+106,122,29,23
+106,123,29,23
+107,122,29,23
+108,123,29,23
+107,122,29,23
+108,123,29,23
+107,123,29,23
+108,123,29,23
+108,123,29,23
+108,123,29,23
+108,124,29,23
+108,124,29,23
+108,125,29,23
+109,124,29,23
+110,125,29,23
+109,124,29,23
+110,125,29,23
+109,124,29,23
+111,124,29,23
+111,124,29,23
+111,124,29,23
+111,123,29,23
+112,123,29,23
+111,122,29,23
+112,123,29,23
+112,122,29,23
+112,122,29,23
+112,122,29,23
+113,122,29,23
+114,123,29,23
+113,122,29,23
+114,123,29,23
+114,122,29,23
+114,123,29,23
+115,122,29,23
+115,123,29,23
+116,122,29,23
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected

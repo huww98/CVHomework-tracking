@@ -1,0 +1,252 @@
+6,166,42,26
+9.33383,165.801,43.8549,25.1446
+10.3396,165.829,45.5547,24.4465
+9.69558,165.298,47.5144,24.0976
+9.79205,166.174,48.8354,23.5047
+9.46632,165.893,50.2872,23.1071
+9.9492,165.039,52.0835,22.7853
+9.3692,165.511,57.8458,23.8197
+10.1184,164.509,63.3881,24.5604
+10.2651,164.881,71.1933,25.9435
+14.334,161.716,77.1663,26.5664
+14.5028,162.774,84.8559,27.7751
+18.5921,161.588,91.2083,28.8764
+24.1605,160.707,96.2569,29.6696
+30.9258,159.709,100.834,30.5816
+39.0015,157.774,105.368,31.6949
+43.4411,153.571,117.961,35.1117
+52.0772,148.506,128.147,37.6212
+59.6698,142.35,142.005,41.2124
+63.2692,136.692,154.321,44.132
+60.0296,129.853,172.748,49.0507
+54.8375,122.902,195.991,55.3679
+48.9445,114.908,225.313,63.3701
+48.2006,107.44,254.044,71.0013
+51.6246,99.8777,285.506,79.3316
+50.9493,84.9705,347.863,97.1074
+62.442,65.1633,405.568,112.548
+35.0675,18.1524,488.688,137.352
+58.7716,-8.9212,461.278,132.701
+61.476,-22.5525,411.802,122.042
+63.0698,-8.90045,364.426,109.97
+84.3162,-6.91751,332.3,101.409
+95.3751,-1.10989,300.331,92.7379
+118.35,-0.753601,279.943,87.083
+131.311,-3.04927,280.534,88.9075
+139.319,-5.70291,290.255,94.3223
+126.301,-11.169,328.143,110.388
+124.747,-23.8411,344.41,120.165
+144.892,-34.9377,377.644,137.675
+134.741,-56.8788,439.444,168.522
+149.262,-88.2388,493.672,197.172
+191.302,-137.497,531.293,220.891
+178.562,-195.162,598.942,256.152
+138.19,-247.426,693.364,307.754
+120.351,-325.685,735.952,336.76
+124.884,-384.639,785.185,384.871
+125.291,-471.673,866.776,454.684
+127.841,-539.515,973.764,547.537
+133.046,-666.411,1096.27,655.618
+-38.5554,-674.819,1182.12,743.697
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
