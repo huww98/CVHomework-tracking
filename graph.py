@@ -3,6 +3,7 @@ import os
 import glob
 import math
 import re
+from typing import Dict
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -81,47 +82,89 @@ class RectSequence:
                 area.append(r1.intersection_area_with(r2))
         return np.array(area)
 
-def graph(name):
-    truth = RectSequence(os.path.join('./data', name, 'groundtruth_rect.txt'))
-    frame_count = len(truth)
-    figure, axes = plt.subplots(2, 1, figsize=(8,8))
+class GraphData:
+    def __init__(self, precision: Dict[str, np.ndarray], success: Dict[str, np.ndarray], frame_count: int, path: str):
+        self.precision = precision
+        self.success = success
+        self.frame_count = frame_count
+        self.path = path
 
-    for r in glob.glob(f'./data/{name}/*result.txt'):
-        algrithm_name = os.path.basename(r)[:-10]
-        rects = RectSequence(r)
+    dis_thre = np.linspace(0, 50)
+    overlap_thre = np.linspace(0, 1)
 
-        distance = truth.center_distance_to(rects)
-        dis_thre = np.linspace(0, 50)
-        precision = (distance < dis_thre[:, np.newaxis]).sum(axis=1) / frame_count
-        axes[0].plot(dis_thre, precision, label=algrithm_name)
+    @classmethod
+    def from_result(cls, path: str):
+        truth = RectSequence(os.path.join('data', path, 'groundtruth_rect.txt'))
+        frame_count = len(truth)
 
-        intersection = truth.intersetion_area_with(rects)
-        union = truth.area() + rects.area() - intersection
-        overlap_thre = np.linspace(0, 1)
-        success = (intersection / union > overlap_thre[:, np.newaxis]).sum(axis=1) / frame_count
-        axes[1].plot(overlap_thre, success, label=algrithm_name)
+        precision_dict = dict()
+        success_dict = dict()
+        for r in glob.glob(os.path.join('data', path, '*result.txt')):
+            algrithm_name = os.path.basename(r)[:-10]
+            result = RectSequence(r)
 
-    axes[0].set_title('Precision Rate')
-    axes[0].set_ylabel('Precision Rate')
-    axes[0].set_xlabel('Location error threshold')
+            distance = truth.center_distance_to(result)
+            precision = (distance < cls.dis_thre[:, np.newaxis]).sum(axis=1) / frame_count
+            precision_dict[algrithm_name] = precision
 
-    axes[1].set_title('Success Rate')
-    axes[1].set_ylabel('Success Rate')
-    axes[1].set_xlabel('Overlap area rate threshold')
+            intersection = truth.intersetion_area_with(result)
+            union = truth.area() + result.area() - intersection
+            success = (intersection / union > cls.overlap_thre[:, np.newaxis]).sum(axis=1) / frame_count
+            success_dict[algrithm_name] = success
+        return cls(precision_dict, success_dict, frame_count, path)
 
-    axes[0].legend()
-    axes[1].legend()
+    @classmethod
+    def merge(cls, data: list, path: str):
+        algrithms = set.intersection(*[set(d.precision.keys()) for d in data])
+        frame_count_list = [d.frame_count for d in data]
+        frame_count = sum(frame_count_list)
+        precision = {alg: np.average([d.precision[alg] for d in data], weights=frame_count_list, axis=0) for alg in algrithms}
+        success = {alg: np.average([d.success[alg] for d in data], weights=frame_count_list, axis=0) for alg in algrithms}
+        return cls(precision, success, frame_count, path)
 
-    figure.suptitle(name, fontsize=18)
-    figure.tight_layout(rect=[0, 0, 1, 0.95])
-    figure.savefig(os.path.join(GRAPH_PATH, f'{name}.png'))
-    print(name)
+    def draw(self):
+        figure, axes = plt.subplots(2, 1, figsize=(8, 8))
+        for alg in self.precision:
+            axes[0].plot(self.dis_thre, self.precision[alg], label=alg)
+            axes[1].plot(self.overlap_thre, self.success[alg], label=alg)
+
+        axes[0].set_title('Precision Rate')
+        axes[0].set_ylabel('Precision Rate')
+        axes[0].set_xlabel('Location error threshold')
+
+        axes[1].set_title('Success Rate')
+        axes[1].set_ylabel('Success Rate')
+        axes[1].set_xlabel('Overlap area rate threshold')
+
+        axes[0].legend()
+        axes[1].legend()
+
+        name = '-'.join(self.path.split(os.sep)) if self.path else 'All'
+        figure.suptitle(name, fontsize=18)
+        figure.tight_layout(rect=[0, 0, 1, 0.95])
+
+        head, tail = os.path.split(self.path)
+        filename = tail or 'all'
+        path = os.path.join(GRAPH_PATH, head)
+        os.makedirs(path, exist_ok=True)
+        figure.savefig(os.path.join(path, f'{filename}.png'))
+
+def graph(path):
+    dirlist = os.listdir(os.path.join('data', path))
+    if 'groundtruth_rect.txt' in dirlist:
+        data = GraphData.from_result(path)
+    else:
+        children_data = [graph(os.path.join(path, p)) for p in dirlist]
+        data = GraphData.merge(children_data, path)
+
+    data.draw()
+    print(path or 'all')
+    return data
 
 def main(names=None):
     if names is None:
-        names = os.listdir('./data')
+        names = ['']
 
-    os.makedirs(GRAPH_PATH, exist_ok=True)
     for n in names:
         graph(n)
 

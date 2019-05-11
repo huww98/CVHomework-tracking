@@ -11,22 +11,26 @@ pip install -r requirments.txt
 
 ```
 data
-├── Liquor
-│   ├── groundtruth_rect.txt
-│   ├── GOTURNresult.txt
-│   ├── KCFresult.txt
-│   ├── TLDresult.txt
+├── OTB
+│   ├── Liquor
+│   │   ├── groundtruth_rect.txt
+│   │   ├── GOTURNresult.txt
+│   │   ├── KCFresult.txt
+│   │   ├── TLDresult.txt
+│   │   └── ......
+│   ├── Panda
+│   │   ├── groundtruth_rect.txt
+│   │   ├── GOTURNresult.txt
+│   │   ├── KCFresult.txt
+│   │   ├── TLDresult.txt
+│   │   └── ......
 │   └── ......
-├── Panda
-│   ├── groundtruth_rect.txt
-│   ├── GOTURNresult.txt
-│   ├── KCFresult.txt
-│   ├── TLDresult.txt
+├── VOT
 │   └── ......
 └── .....
 ```
 
-每个Sequence作为一个子文件夹，以Sequence的名字作为文件夹名。每个Sequence的数据中需要包括：
+使用数据集名，Sequence名等建立目录层级结构，支持任意多级目录。每个Sequence的数据中需要包括：
 * groundtruth_rect.txt 人工标注的跟踪边界框
 * [ALGO]result.txt 以每个算法的名字开头的文件，记录该算法输出的边界框
 
@@ -39,7 +43,7 @@ python graph.py
 
 或运行以下命令生成特定Sequence的图表
 ```
-python graph.py Liquor Panda ...
+python graph.py OTB/Liquor OTB/Panda ...
 ```
 
-生成的图表将位于`output/graph`目录下
+生成的图表将位于`output/graph`目录下，将会保留输入数据的层级结构，并在每一级子目录绘制汇总图表。最外层将会有额为的`all.png`汇总所有输入数据。
