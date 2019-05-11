@@ -1,0 +1,661 @@
+163,52,43,174
+163,52,43,174
+164,52,43,174
+165,52,43,174
+166,50,43,174
+167,48,43,174
+168,50,43,174
+169,48,43,174
+166,48,43,174
+167,48,43,174
+164,48,43,174
+163,48,43,174
+160,46,43,174
+159,44,43,174
+154,46,43,174
+153,44,43,174
+150,46,43,174
+149,44,43,174
+146,46,43,174
+145,44,43,174
+144,46,43,174
+145,44,43,174
+144,46,43,174
+145,44,43,174
+144,46,43,174
+145,44,43,174
+144,46,43,174
+145,46,43,174
+144,46,43,174
+145,46,43,174
+146,46,43,174
+147,46,43,174
+146,46,43,174
+147,46,43,174
+148,46,43,174
+147,46,43,174
+148,46,43,174
+149,46,43,174
+148,48,43,174
+147,50,43,174
+146,48,43,174
+147,50,43,174
+146,48,43,174
+147,50,43,174
+146,48,43,174
+147,50,43,174
+148,48,43,174
+149,50,43,174
+150,46,43,174
+151,46,43,174
+152,46,43,174
+153,46,43,174
+154,46,43,174
+155,46,43,174
+156,46,43,174
+157,46,43,174
+158,46,43,174
+159,46,43,174
+158,46,43,174
+157,46,43,174
+158,46,43,174
+159,46,43,174
+160,48,43,174
+161,50,43,174
+164,50,43,174
+165,50,43,174
+168,50,43,174
+169,50,43,174
+172,52,43,174
+175,54,43,174
+180,52,43,174
+181,54,43,174
+186,52,43,174
+187,54,43,174
+190,54,43,174
+193,54,43,174
+196,54,43,174
+199,54,43,174
+204,52,43,174
+207,54,43,174
+210,52,43,174
+211,54,43,174
+212,50,43,174
+213,50,43,174
+214,48,43,174
+215,50,43,174
+214,48,43,174
+215,48,43,174
+212,50,43,174
+213,48,43,174
+212,50,43,174
+211,48,43,174
+208,52,43,174
+207,52,43,174
+206,52,43,174
+205,52,43,174
+206,54,43,174
+207,52,43,174
+206,56,43,174
+205,56,43,174
+204,58,43,174
+205,56,43,174
+204,58,43,174
+203,58,43,174
+202,58,43,174
+203,58,43,174
+202,60,43,174
+203,62,43,174
+204,60,43,174
+205,62,43,174
+206,62,43,174
+207,62,43,174
+208,62,43,174
+Tracking failure detected
+Tracking failure detected
+207,62,43,174
+206,62,43,174
+205,62,43,174
+204,62,43,174
+203,60,43,174
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+206,74,43,174
+209,74,43,174
+210,72,43,174
+213,74,43,174
+216,74,43,174
+221,72,43,174
+224,74,43,174
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+215,74,43,174
+210,74,43,174
+207,74,43,174
+204,74,43,174
+201,74,43,174
+198,74,43,174
+193,74,43,174
+188,74,43,174
+183,74,43,174
+176,74,43,174
+169,74,43,174
+160,74,43,174
+151,74,43,174
+142,74,43,174
+133,74,43,174
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+134,76,43,174
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+133,78,43,174
+128,76,43,174
+123,78,43,174
+116,78,43,174
+109,78,43,174
+102,78,43,174
+97,78,43,174
+90,78,43,174
+85,78,43,174
+78,78,43,174
+73,78,43,174
+66,80,43,174
+61,82,43,174
+54,80,43,174
+49,82,43,174
+42,80,43,174
+37,82,43,174
+32,82,43,174
+27,82,43,174
+22,82,43,174
+17,82,43,174
+12,82,43,174
+9,82,43,174
+4,82,43,174
+1,82,43,174
+-4,82,43,174
+-7,82,43,174
+-10,82,43,174
+-13,82,43,174
+-16,80,43,174
+-17,82,43,174
+-18,80,43,174
+-19,82,43,174
+-20,80,43,174
+-21,80,43,174
+-22,80,43,174
+-23,78,43,174
+-24,76,43,174
+-25,78,43,174
+-26,76,43,174
+-27,78,43,174
+-28,74,43,174
+-29,74,43,174
+-30,72,43,174
+-31,74,43,174
+-34,72,43,174
+Tracking failure detected
+Tracking failure detected
+-35,72,43,174
+-36,72,43,174
+-35,70,43,174
+-36,70,43,174
+-37,70,43,174
+-36,68,43,174
+-37,72,43,174
+-36,70,43,174
+-35,68,43,174
+-36,72,43,174
+-37,112,43,174
+-38,72,43,174
+-39,70,43,174
+-40,70,43,174
+-41,70,43,174
+-42,70,43,174
+-41,70,43,174
+-40,68,43,174
+-41,72,43,174
+-40,72,43,174
+-39,72,43,174
+-38,72,43,174
+-37,72,43,174
+-36,72,43,174
+-37,74,43,174
+-36,70,43,174
+-35,70,43,174
+-36,70,43,174
+Tracking failure detected
+-35,72,43,174
+-36,74,43,174
+-35,72,43,174
+-34,74,43,174
+-33,72,43,174
+-34,74,43,174
+-35,72,43,174
+-36,74,43,174
+-35,72,43,174
+-34,74,43,174
+-35,74,43,174
+-36,74,43,174
+Tracking failure detected
+-35,76,43,174
+-36,76,43,174
+-37,76,43,174
+-36,78,43,174
+-37,76,43,174
+-36,78,43,174
+-37,78,43,174
+-38,76,43,174
+-37,78,43,174
+-38,78,43,174
+-37,78,43,174
+-38,78,43,174
+-39,78,43,174
+-40,78,43,174
+-39,76,43,174
+-40,76,43,174
+-41,76,43,174
+-40,118,43,174
+-41,118,43,174
+-42,118,43,174
+-41,74,43,174
+-42,72,43,174
+-43,72,43,174
+-42,72,43,174
+-41,70,43,174
+-42,68,43,174
+-41,68,43,174
+-40,68,43,174
+-41,66,43,174
+-42,64,43,174
+-43,64,43,174
+-42,64,43,174
+-41,62,43,174
+-40,60,43,174
+-39,60,43,174
+-38,60,43,174
+-37,60,43,174
+-38,58,43,174
+-39,56,43,174
+-40,58,43,174
+-39,54,43,174
+-38,54,43,174
+-37,52,43,174
+-36,54,43,174
+-35,52,43,174
+-34,52,43,174
+-33,52,43,174
+-34,52,43,174
+-33,50,43,174
+-32,48,43,174
+-33,50,43,174
+-34,48,43,174
+-35,48,43,174
+-36,48,43,174
+-35,48,43,174
+-34,48,43,174
+-33,48,43,174
+-34,48,43,174
+-33,48,43,174
+-32,48,43,174
+-31,48,43,174
+-30,48,43,174
+-29,46,43,174
+-28,44,43,174
+-27,46,43,174
+-26,44,43,174
+-25,46,43,174
+-24,44,43,174
+-21,46,43,174
+-18,46,43,174
+-21,66,43,174
+-22,68,43,174
+-19,68,43,174
+-20,50,43,174
+-21,46,43,174
+-22,46,43,174
+-21,44,43,174
+-20,46,43,174
+-21,46,43,174
+-22,46,43,174
+-21,48,43,174
+-20,50,43,174
+-21,52,43,174
+-22,50,43,174
+-23,50,43,174
+-22,52,43,174
+-23,54,43,174
+-22,52,43,174
+-21,56,43,174
+-20,58,43,174
+-21,56,43,174
+-22,58,43,174
+-21,60,43,174
+-20,62,43,174
+-19,64,43,174
+-20,66,43,174
+-19,66,43,174
+-18,68,43,174
+-17,70,43,174
+-16,72,43,174
+-17,72,43,174
+-18,78,43,174
+-17,78,43,174
+-18,78,43,174
+-17,78,43,174
+-16,76,43,174
+-15,74,43,174
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+-14,68,43,174
+-13,68,43,174
+-12,70,43,174
+-11,68,43,174
+-12,68,43,174
+-13,68,43,174
+-14,68,43,174
+-15,68,43,174
+-16,68,43,174
+-17,68,43,174
+-18,70,43,174
+-19,68,43,174
+-20,72,43,174
+-21,72,43,174
+-22,74,43,174
+-23,72,43,174
+-24,74,43,174
+-25,74,43,174
+-26,54,43,174
+-27,52,43,174
+-26,56,43,174
+-25,56,43,174
+-26,56,43,174
+-27,56,43,174
+-26,80,43,174
+-25,80,43,174
+-26,84,43,174
+-27,84,43,174
+-28,68,43,174
+-29,64,43,174
+-28,62,43,174

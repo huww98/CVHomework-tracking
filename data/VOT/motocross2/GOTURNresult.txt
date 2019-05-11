@@ -1,0 +1,61 @@
+542,252,280,308
+576.42,307.738,278.265,321.065
+602.116,350.654,275.861,328.077
+644.727,228.346,269.83,315.474
+619.409,234.188,283.869,318.656
+575.211,245.9,319.436,344.113
+556.483,295.551,330.046,341.492
+553.535,341.188,334.485,335.947
+517.058,380.372,371.995,358.918
+478.491,413.818,408.424,384.893
+444.013,424.947,460.472,422.124
+295.98,339.643,658.95,579.005
+307.304,364.178,726.786,603.955
+222.122,211.005,940.872,738.418
+176.486,88.7052,1125.78,817.334
+126.226,47.7974,1305.73,868.308
+20.5776,-12.5801,1427.2,902.687
+-112.947,-63.6588,1550.08,925.828
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
