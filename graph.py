@@ -84,7 +84,7 @@ class RectSequence:
 def graph(name):
     truth = RectSequence(os.path.join('./data', name, 'groundtruth_rect.txt'))
     frame_count = len(truth)
-    figure, axes = plt.subplots(2, 1, figsize=(8,8), tight_layout=True)
+    figure, axes = plt.subplots(2, 1, figsize=(8,8))
 
     for r in glob.glob(f'./data/{name}/*result.txt'):
         algrithm_name = os.path.basename(r)[:-10]
@@ -92,13 +92,13 @@ def graph(name):
 
         distance = truth.center_distance_to(rects)
         dis_thre = np.linspace(0, 50)
-        precision = (distance < dis_thre[np.newaxis].T).sum(axis=1) / frame_count
+        precision = (distance < dis_thre[:, np.newaxis]).sum(axis=1) / frame_count
         axes[0].plot(dis_thre, precision, label=algrithm_name)
 
         intersection = truth.intersetion_area_with(rects)
         union = truth.area() + rects.area() - intersection
         overlap_thre = np.linspace(0, 1)
-        success = (intersection / union > overlap_thre[np.newaxis].T).sum(axis=1) / frame_count
+        success = (intersection / union > overlap_thre[:, np.newaxis]).sum(axis=1) / frame_count
         axes[1].plot(overlap_thre, success, label=algrithm_name)
 
     axes[0].set_title('Precision Rate')
@@ -111,6 +111,9 @@ def graph(name):
 
     axes[0].legend()
     axes[1].legend()
+
+    figure.suptitle(name, fontsize=18)
+    figure.tight_layout(rect=[0, 0, 1, 0.95])
     figure.savefig(os.path.join(GRAPH_PATH, f'{name}.png'))
     print(name)
 
