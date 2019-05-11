@@ -19,6 +19,18 @@ class Rect:
         self.w = w
         self.h = h
 
+    def __eq__(self, value):
+        if (self.x == value.x and
+                self.y == value.y and
+                self.w == value.w and
+                self.h == value.h):
+            return True
+        print(self, value)
+        return False
+
+    def __repr__(self):
+        return f'Rect(x={self.x}, y={self.y}, w={self.w}, h={self.h})'
+
     @classmethod
     def from_line(cls, line: str):
         if line.strip() == 'Tracking failure detected':
@@ -55,6 +67,9 @@ class RectSequence:
 
     def __len__(self):
         return len(self.rects)
+
+    def __eq__(self, value):
+        return self.rects == value.rects
 
     def center_distance_to(self, rects):
         if len(self) != len(rects):
