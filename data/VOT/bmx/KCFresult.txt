@@ -1,0 +1,76 @@
+758,265,123,183
+758,265,123,183
+761,262,123,183
+762,261,123,183
+765,258,123,183
+770,257,123,183
+773,254,123,183
+778,251,123,183
+783,248,123,183
+786,247,123,183
+791,244,123,183
+796,245,123,183
+799,242,123,183
+800,243,123,183
+803,242,123,183
+806,241,123,183
+811,238,123,183
+820,239,123,183
+829,238,123,183
+834,237,123,183
+839,232,123,183
+838,227,123,183
+839,222,123,183
+840,219,123,183
+841,214,123,183
+842,211,123,183
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected

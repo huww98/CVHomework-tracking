@@ -1,0 +1,310 @@
+259,109,120,97
+259,109,120,97
+259,110,120,97
+259,111,120,97
+257,112,120,97
+257,113,120,97
+257,114,120,97
+255,113,120,97
+253,114,120,97
+253,113,120,97
+253,114,120,97
+253,113,120,97
+253,114,120,97
+253,113,120,97
+253,114,120,97
+255,113,120,97
+253,114,120,97
+253,113,120,97
+251,114,120,97
+249,113,120,97
+251,114,120,97
+249,113,120,97
+251,114,120,97
+249,113,120,97
+251,114,120,97
+249,113,120,97
+249,114,120,97
+247,113,120,97
+243,112,120,97
+241,111,120,97
+239,110,120,97
+235,107,120,97
+233,106,120,97
+231,103,120,97
+225,104,120,97
+225,101,120,97
+223,100,120,97
+217,97,120,97
+217,96,120,97
+215,95,120,97
+209,94,120,97
+209,93,120,97
+207,92,120,97
+203,91,120,97
+201,92,120,97
+201,91,120,97
+199,92,120,97
+197,91,120,97
+197,92,120,97
+195,91,120,97
+191,92,120,97
+191,91,120,97
+189,92,120,97
+189,91,120,97
+189,90,120,97
+187,87,120,97
+183,86,120,97
+181,83,120,97
+179,82,120,97
+173,77,120,97
+171,76,120,97
+167,71,120,97
+161,68,120,97
+159,65,120,97
+153,62,120,97
+149,57,120,97
+145,54,120,97
+141,51,120,97
+135,48,120,97
+129,47,120,97
+127,46,120,97
+121,43,120,97
+119,44,120,97
+113,43,120,97
+111,44,120,97
+105,43,120,97
+101,44,120,97
+97,43,120,97
+93,44,120,97
+89,43,120,97
+87,44,120,97
+83,43,120,97
+81,44,120,97
+81,43,120,97
+79,44,120,97
+75,43,120,97
+73,46,120,97
+75,47,120,97
+73,50,120,97
+73,49,120,97
+73,52,120,97
+73,51,120,97
+73,54,120,97
+73,55,120,97
+73,56,120,97
+73,59,120,97
+73,62,120,97
+71,65,120,97
+69,68,120,97
+71,69,120,97
+69,70,120,97
+69,71,120,97
+69,74,120,97
+69,75,120,97
+69,78,120,97
+69,79,120,97
+69,80,120,97
+69,81,120,97
+69,84,120,97
+69,85,120,97
+69,86,120,97
+69,87,120,97
+69,88,120,97
+69,89,120,97
+69,90,120,97
+69,91,120,97
+67,92,120,97
+65,91,120,97
+67,94,120,97
+67,95,120,97
+67,96,120,97
+67,97,120,97
+65,100,120,97
+67,101,120,97
+65,102,120,97
+67,103,120,97
+65,106,120,97
+67,107,120,97
+65,108,120,97
+67,109,120,97
+65,112,120,97
+67,113,120,97
+65,114,120,97
+67,115,120,97
+65,116,120,97
+65,117,120,97
+65,118,120,97
+65,119,120,97
+65,120,120,97
+63,121,120,97
+59,122,120,97
+57,121,120,97
+57,122,120,97
+55,123,120,97
+51,124,120,97
+49,125,120,97
+49,126,120,97
+47,125,120,97
+43,128,120,97
+41,129,120,97
+41,130,120,97
+41,129,120,97
+39,132,120,97
+37,133,120,97
+39,134,120,97
+37,135,120,97
+37,138,120,97
+35,141,120,97
+31,144,120,97
+29,143,120,97
+29,146,120,97
+27,145,120,97
+23,148,120,97
+23,149,120,97
+21,150,120,97
+21,151,120,97
+21,152,120,97
+21,153,120,97
+21,154,120,97
+21,153,120,97
+21,154,120,97
+21,153,120,97
+21,154,120,97
+21,155,120,97
+21,156,120,97
+21,155,120,97
+21,156,120,97
+21,155,120,97
+21,156,120,97
+21,155,120,97
+21,158,120,97
+21,157,120,97
+19,158,120,97
+17,157,120,97
+19,158,120,97
+17,157,120,97
+19,158,120,97
+17,157,120,97
+19,158,120,97
+17,157,120,97
+17,158,120,97
+17,159,120,97
+17,160,120,97
+15,159,120,97
+13,158,120,97
+15,159,120,97
+13,160,120,97
+13,159,120,97
+11,160,120,97
+7,161,120,97
+3,164,120,97
+-1,165,120,97
+-7,170,120,97
+-11,171,120,97
+-19,174,120,97
+-25,175,120,97
+-31,178,120,97
+-33,177,120,97
+-37,174,120,97
+-43,179,120,97
+-45,182,120,97
+-49,181,120,97
+-51,184,120,97
+-51,185,120,97
+-53,186,120,97
+-55,187,120,97
+-57,188,120,97
+-59,189,120,97
+-59,192,120,97
+-59,193,120,97
+-61,196,120,97
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
