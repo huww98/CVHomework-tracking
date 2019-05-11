@@ -1,0 +1,191 @@
+662,137,31,67
+662,137,31,67
+660,136,31,67
+659,144,31,67
+657,151,31,67
+657,152,31,67
+656,150,31,67
+657,147,31,67
+655,147,31,67
+654,151,31,67
+653,155,31,67
+651,155,31,67
+651,152,31,67
+649,146,31,67
+645,141,31,67
+639,139,31,67
+633,145,31,67
+629,154,31,67
+627,161,31,67
+626,166,31,67
+627,164,31,67
+627,162,31,67
+630,161,31,67
+634,158,31,67
+635,157,31,67
+635,154,31,67
+636,152,31,67
+637,144,31,67
+636,136,31,67
+637,137,31,67
+637,142,31,67
+638,151,31,67
+639,145,31,67
+638,150,31,67
+641,165,31,67
+641,169,31,67
+640,156,31,67
+641,148,31,67
+641,142,31,67
+641,136,31,67
+640,135,31,67
+640,135,31,67
+638,129,31,67
+637,126,31,67
+637,130,31,67
+637,134,31,67
+637,137,31,67
+637,138,31,67
+639,138,31,67
+640,135,31,67
+642,135,31,67
+643,139,31,67
+643,142,31,67
+644,143,31,67
+645,141,31,67
+644,140,31,67
+644,145,31,67
+644,150,31,67
+644,154,31,67
+645,157,31,67
+646,157,31,67
+648,156,31,67
+647,156,31,67
+646,156,31,67
+647,155,31,67
+647,154,31,67
+650,155,31,67
+654,156,31,67
+656,160,31,67
+658,157,31,67
+659,151,31,67
+660,146,31,67
+662,141,31,67
+662,142,31,67
+661,141,31,67
+658,131,31,67
+658,132,31,67
+660,139,31,67
+662,149,31,67
+665,162,31,67
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
+Tracking failure detected
