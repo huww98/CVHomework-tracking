@@ -148,6 +148,7 @@ class GraphData:
         path = os.path.join(GRAPH_PATH, head)
         os.makedirs(path, exist_ok=True)
         figure.savefig(os.path.join(path, f'{filename}.png'))
+        plt.close(figure)
 
 def graph(path):
     dirlist = os.listdir(os.path.join('data', path))
